@@ -108,13 +108,13 @@ IT 개발조직의 긍정적인 개발문화를 배우고자 하며, 모두 함�
 >
 > {ProjectName}-{Platform}-{option}
 >
-> Lower CamelCase를 따릅니다.
+> Upper CamelCase를 따릅니다.
 >
 > - ProjectName : 프로젝트 명
 > - Platform : android, ios server, web 등 react, reactNative, winform 상관 없음
 > - opntion: main, test, 입력안함
 >
-> Smaple : Cache-reactNative-test
+> Smaple : Cache-ReactNative-Test
 
 
 
