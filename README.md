@@ -10,7 +10,7 @@ DevGraft Team의 사항을 모두 기술한 문서입니다.
 
 - Tstory Blog : 
 - Team Gmail : 
-- Team Number : 3
+- Team Number : 4
 
 
 
