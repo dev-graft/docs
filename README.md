@@ -1,14 +1,19 @@
 # 📃 DevGraft Team Document 
 
 DevGraft Team의 사항을 모두 기술한 문서입니다.
-
 이 문서에 기술된 내용은 각 플랫폼 내의 공지사항에 포함된 내용입니다.
+ 
+> ❗ 이 문서는 아직 작성 중이므로, 미흡한 내용이 많습니다.
 
 #### :information_source: Resource
 
 - Tstory Blog : 운영 예정
 - Team Gmail : devgraftteam@gmail.com
 - Team Number : 4
+  - server dev : 2
+  - ios dev : 1
+  - web dev : 1 
+  - ui/ux design : 0
 
 ## 목차
 
